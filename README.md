@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farai Zihove
-- 👀 I’m interested in the Tall stack (Tailwind,alpinejs,Laravel,Livewire), AWS and java spring boot
-- 🌱 I’m currently learning AWS Development
-- 💞️ I’m looking to collaborate on laravel projects
+- 👀 I’m interested in the Tall stack (Tailwind,alpinejs,Laravel,Livewire), AWS and Java spring boot
+- 🌱 I’m currently studying towards sprng  professional certification
+- 💞️ I’m looking to collaborate on laravel and java projects
 - 📫 
 
 <!---
